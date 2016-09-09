@@ -1,14 +1,4 @@
-﻿# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
-
-* Студент: [Алексей Енот](https://up.htmlacademy.ru/adaptive/8/user/61758).
-* Наставник: `Неизвестно`.
-
----
-
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package.json`._
-
----
+﻿# Личный проект «Пинк»
 
 ### Памятка
 
